@@ -21,5 +21,15 @@ the course was composed of six lessons and 5 projects
 * Linear Regression using PyTorch built-ins (nn.Linear, nn.functional etc.) 
 
 [***Second Assignment: Creating a ML Model***](https://jovian.ml/federico-abss/02-insurance-linear-regression)  
-[***Extra: Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)
+[***Extra: Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
 [Medium Blogpost about the Extra work](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
+
+### Module 3: Logistic Regression for Image Classiﬁcation
+
+### Module 4: Feedforward Neural Networks & GPUs 
+
+### Module 5a: Image Classiﬁcation using Convolutional Neural Networks
+
+### Module 5b: Data Augmentation, Regularization and Residual Networks 
+
+### Module 6: Image Generation using Generative Adverserial Networks (GANs) 
