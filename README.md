@@ -24,9 +24,9 @@ the course was composed of six lessons and 5 projects
 [***Extra: Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
 [Medium Blogpost about the Extra work](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
 
-### Module 3: Logistic Regression for Image Classiﬁcation
+### Module 3: Feedforward Neural Networks & GPUs
 
-### Module 4: Feedforward Neural Networks & GPUs 
+### Module 4: Image Classiﬁcation using Convolutional Neural Networks 
 
 ### Module 5a: Image Classiﬁcation using Convolutional Neural Networks
 
