@@ -5,26 +5,34 @@ the course was composed of six lessons and 5 projects
 
 ### Module 1: PyTorch Basics - Tensors & Gradients 
 * Introduction to Jupyter notebooks & Data Science in Python 
-* Creating vectors, matrices & Tensors in PyTorch 
 * Tensor operations and gradient computations 
-* Interoperability of PyTorch with Numpy
 * What is Linear Regression & Gradient Descent
+* Linear Regression from scratch using Tensor operations 
+* Weights, biases and the mean squared error loss function 
+* Gradient descent and model training with PyTorch Autograd 
+* Linear Regression using PyTorch built-ins (nn.Linear, nn.functional etc.) 
 
 [***First Assignment: Exploring Pytorch***](https://jovian.ml/federico-abss/01-tensor-operations)  
 [Medium blogpost about the assignment](https://medium.com/@federicomannucci_31459/exploring-pytorch-in-5-functions-39eb96cc0180)
 
 ### Module 2: Stocastic Linear Regression & Working With Pictures
 * Converting images into Input that a ML Model can use
-* Linear Regression from scratch using Tensor operations 
-* Weights, biases and the mean squared error loss function 
-* Gradient descent and model training with PyTorch Autograd 
-* Linear Regression using PyTorch built-ins (nn.Linear, nn.functional etc.) 
+* Working with images from the MNIST dataset 
+* Training and validation dataset creation 
+* Softmax function and categorical cross entropy loss 
+* Model training, evaluation and sample predictions 
 
 [***Second Assignment: Creating a ML Model***](https://jovian.ml/federico-abss/02-insurance-linear-regression)  
 [***Extra: Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
-[Medium Blogpost about the Extra work](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
+[Medium Blogpost about the Life Expectancy Model](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
 
 ### Module 3: Feedforward Neural Networks & GPUs
+* Working with cloud GPU platforms like Kaggle & Colab 
+* Creating a multilayer neural network using nn.Module 
+* Activation function, non-linearity and universal approximation theorem 
+* Moving datasets and models to the GPU for faster training 
+
+[***Third Assignment: Creating a Multilayered Network***]()  
 
 ### Module 4: Image Classiﬁcation using Convolutional Neural Networks 
 
