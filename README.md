@@ -23,8 +23,6 @@ the course was composed of six lessons and 5 projects
 * Model training, evaluation and sample predictions 
 
 [***Second Assignment: Creating a ML Model***](https://jovian.ml/federico-abss/02-insurance-linear-regression)  
-[***Extra: Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
-[Medium Blogpost about the Life Expectancy Model](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
 
 ### Module 3: Feedforward Neural Networks & GPUs
 * Working with cloud GPU platforms like Kaggle & Colab 
@@ -32,12 +30,16 @@ the course was composed of six lessons and 5 projects
 * Activation function, non-linearity and universal approximation theorem 
 * Moving datasets and models to the GPU for faster training 
 
-[***Third Assignment: Creating a Multilayered Network***]()  
+[***Third Assignment: Creating a Multilayered Network***](https://jovian.ml/federico-abss/03-cifar10-feedforward/v/17)  
 
 ### Module 4: Image Classiﬁcation using Convolutional Neural Networks 
 
-### Module 5a: Image Classiﬁcation using Convolutional Neural Networks
-
-### Module 5b: Data Augmentation, Regularization and Residual Networks 
+### Module 5: Data Augmentation, Regularization and Residual Networks 
 
 ### Module 6: Image Generation using Generative Adverserial Networks (GANs) 
+
+### Final Project
+Linear regression model built on the [WHO Life Expectancy dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) to predict Life Expectancy.  
+
+[***Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
+[Medium Blogpost about the final project](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
