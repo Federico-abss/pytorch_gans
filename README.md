@@ -33,10 +33,22 @@ the course was composed of six lessons and 5 projects
 [***Third Assignment: Creating a Multilayered Network***](https://jovian.ml/federico-abss/03-cifar10-feedforward/v/17)  
 
 ### Module 4: Image Classiﬁcation using Convolutional Neural Networks 
+* Working with cloud GPU platforms like Kaggle & Colab 
+* Creating a multilayer neural network using nn.Module 
+* Activation function, non-linearity and universal approximation theorem 
 
 ### Module 5: Data Augmentation, Regularization and Residual Networks 
+* Improving the dataset using data normalization and data augmentation 
+* Improving the model using residual connections and batch normalization 
+* Improving the training loop using learning rate annealing, weight decay and gradient clip 
+* Introduction to Convolutions, kernels & features maps 
+* Underﬁtting, overﬁtting and techniques to improve model performance 
 
 ### Module 6: Image Generation using Generative Adverserial Networks (GANs) 
+* Introduction to generative modeling and application of GANs 
+* Creating generator and discriminator neural networks  
+* Generating and evaluating fake images of handwritten digits 
+* Training the generator and discriminator in tandem and visualizing results 
 
 ### Final Project
 Linear regression model built on the [WHO Life Expectancy dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) to predict Life Expectancy.  
