@@ -55,3 +55,6 @@ Linear regression model built on the [WHO Life Expectancy dataset](https://www.k
 
 [***Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
 [Medium Blogpost about the final project](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
+
+### Certificate of completion!
+![certificate](/images/Pytorch%20Certificate-1.png)
